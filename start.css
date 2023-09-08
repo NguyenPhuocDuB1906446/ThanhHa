@@ -1,0 +1,25 @@
+body{
+    background: rgb(255, 218, 232);
+    
+}
+div{
+    display: grid;
+    justify-content: center;
+}
+.p1{
+    margin-top: 20%;
+}
+.p2,.p1{
+    text-align: center;
+    font-size: 18px;
+    text-transform: uppercase;
+    font-weight: bolder;
+    font-family: 'Courier New', Courier, monospace;
+    color: red;
+}
+.start{
+    
+    width: 100px;
+    height: 100px;
+    
+}
